@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapAlpha</string>
+    <string name="intro_text">Swipe edge to exit the map.</string>
+    <string name="title_activity_main">GoogleMapAlpha</string>
+</resources>
